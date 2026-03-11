@@ -1,5 +1,10 @@
 ## Instalación del proyecto
 
+Base de datos:
+
+en el archivo "base de datos SQL" se encuentra el codigo para la creacion y uso de la base de datos 
+que se utilizo en la prueba
+
 Clonar el repositorio:
 
 ```bash
